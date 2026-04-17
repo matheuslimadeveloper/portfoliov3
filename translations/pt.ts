@@ -1,0 +1,93 @@
+contact: {
+    title: 'Vamos trabalhar',
+    titleHighlight: 'juntos?',
+    form: {
+      name: 'Nome',
+      email: 'Email',
+      message: 'Mensagem',
+      send: 'Enviar Mensagem',
+      phone: 'Telefone', // Added phone translation
+    },
+    success: 'Mensagem enviada! Entrarei em contato em breve.',
+  },
+  hero: {
+    greeting: 'Olá, sou',
+    name: 'Matheus Lima',
+    title: 'Desenvolvedor Full Stack',
+    subtitle: 'Criando experiências digitais excepcionais com código limpo e designs modernos',
+    cta: 'Ver mais', // Changed from "Contato" to "Ver mais"
+  },
+  about: {
+    title: 'Sobre',
+    titleHighlight: 'mim',
+    description: 'Sou um desenvolvedor Full Stack apaixonado por criar experiências digitais excepcionais. Com experiência em React, Next.js, Node.js e design moderno, transformo ideias em realidade através de código limpo e designs inovadores.',
+    viewProjects: 'Ver Projetos',
+    skills: {
+      react: 'React',
+      reactDesc: 'Framework moderno para interfaces',
+      typescript: 'TypeScript',
+      typescriptDesc: 'JavaScript tipado e escalável',
+      nodejs: 'Node.js',
+      nodejsDesc: 'Backend robusto e performático',
+      microSaas: 'Micro SaaS',
+      microSaasDesc: 'Soluções SaaS escaláveis',
+      tailwind: 'Tailwind',
+      tailwindDesc: 'Design system moderno',
+      web3: 'AI Specialist',
+      web3Desc: 'Integração com redes sociais',
+    },
+  },
+  projects: {
+    title: 'Projetos em',
+    titleHighlight: 'Destaque',
+    viewProject: 'Ver Projeto',
+  },
+  pricing: {
+    title: 'Tabela de',
+    titleHighlight: 'Preços',
+    subtitle: 'Escolha o plano ideal para o seu projeto',
+    popular: 'Mais Popular',
+    cta: 'Entrar em Contato',
+    landingPage: {
+      title: 'Landing Page',
+      price: '€499',
+      period: 'projeto único',
+      description: 'Perfeito para validar sua ideia rapidamente',
+      features: [
+        'Design moderno e responsivo',
+        '1 página otimizada',
+        'Formulário de contato',
+        'SEO básico',
+        'Entrega em 7 dias',
+      ],
+    },
+    multiPage: {
+      title: 'Site Completo',
+      price: '€1.299',
+      period: 'projeto único',
+      description: 'Ideal para empresas que querem presença digital forte',
+      features: [
+        'Até 5 páginas',
+        'Design personalizado',
+        'Painel administrativo',
+        'SEO avançado',
+        'Integração com APIs',
+        'Entrega em 15 dias',
+      ],
+    },
+    custom: {
+      title: 'Personalizado',
+      price: 'Sob Consulta',
+      description: 'Soluções customizadas para projetos complexos',
+      features: [
+        'Funcionalidades customizadas',
+        'Integração com sistemas',
+        'App mobile (opcional)',
+        'Suporte dedicado',
+        'Prazo flexível',
+      ],
+    },
+  },
+  team: {
+    // ... existing code here ...
+  },

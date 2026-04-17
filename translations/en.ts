@@ -1,0 +1,93 @@
+contact: {
+    title: "Let's work",
+    titleHighlight: 'together?',
+    form: {
+      name: 'Name',
+      email: 'Email',
+      message: 'Message',
+      send: 'Send Message',
+      phone: 'Phone', // Added phone translation
+    },
+    success: "Message sent! I'll get back to you soon.",
+  },
+  hero: {
+    greeting: "Hi, I'm",
+    name: 'Matheus Lima',
+    title: 'Full Stack Developer',
+    subtitle: 'Creating exceptional digital experiences with clean code and modern designs',
+    cta: 'See more', // Changed from "Contact" to "See more"
+  },
+  about: {
+    title: 'About',
+    titleHighlight: 'Me',
+    description: "I'm a Full Stack developer passionate about creating exceptional digital experiences. With expertise in React, Next.js, Node.js and modern design, I transform ideas into reality through clean code and innovative designs.",
+    viewProjects: 'View Projects',
+    skills: {
+      react: 'React',
+      reactDesc: 'Modern framework for interfaces',
+      typescript: 'TypeScript',
+      typescriptDesc: 'Typed and scalable JavaScript',
+      nodejs: 'Node.js',
+      nodejsDesc: 'Robust and performant backend',
+      microSaas: 'Micro SaaS',
+      microSaasDesc: 'Scalable SaaS solutions',
+      tailwind: 'Tailwind',
+      tailwindDesc: 'Modern design system',
+      web3: 'AI Specialist',
+      web3Desc: 'Social media integration',
+    },
+  },
+  projects: {
+    title: 'Featured',
+    titleHighlight: 'Projects',
+    viewProject: 'View Project',
+  },
+  pricing: {
+    title: 'Pricing',
+    titleHighlight: 'Table',
+    subtitle: 'Choose the ideal plan for your project',
+    popular: 'Most Popular',
+    cta: 'Get in Touch',
+    landingPage: {
+      title: 'Landing Page',
+      price: '€499',
+      period: 'one-time project',
+      description: 'Perfect for quickly validating your idea',
+      features: [
+        'Modern responsive design',
+        '1 optimized page',
+        'Contact form',
+        'Basic SEO',
+        '7-day delivery',
+      ],
+    },
+    multiPage: {
+      title: 'Full Website',
+      price: '€1,299',
+      period: 'one-time project',
+      description: 'Ideal for companies wanting strong digital presence',
+      features: [
+        'Up to 5 pages',
+        'Custom design',
+        'Admin panel',
+        'Advanced SEO',
+        'API integration',
+        '15-day delivery',
+      ],
+    },
+    custom: {
+      title: 'Custom',
+      price: 'Contact Us',
+      description: 'Customized solutions for complex projects',
+      features: [
+        'Custom features',
+        'System integration',
+        'Mobile app (optional)',
+        'Dedicated support',
+        'Flexible timeline',
+      ],
+    },
+  },
+  team: {
+    // ... existing code here ...
+  },
