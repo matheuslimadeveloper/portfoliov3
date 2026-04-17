@@ -94,7 +94,7 @@ export const translations = {
       cta: "Entrar em Contato",
       landingPage: {
         title: "Landing Page",
-        price: "€500",
+        price: "€300",
         period: "projeto único",
         description: "Perfeito para validar sua ideia rapidamente economizando tempo e com design profissional",
         features: [
@@ -108,7 +108,7 @@ export const translations = {
       },
       multiPage: {
         title: "Site Completo",
-        price: "€500",
+        price: "€699",
         period: "projeto único",
         description: "Ideal para empresas que querem presença digital forte",
         features: [
@@ -122,7 +122,7 @@ export const translations = {
       },
       custom: {
         title: "Loja Online",
-        price: "€500",
+        price: "€800",
         period: "projeto único",
         description: "Loja completa com Shopify e gateway de pagamento Stripe",
         features: [
@@ -296,7 +296,7 @@ export const translations = {
       cta: "Get in Touch",
       landingPage: {
         title: "Landing Page",
-        price: "€500",
+        price: "€300",
         period: "one-time project",
         description: "Perfect for quickly validating your idea saving time with professional design",
         features: [
@@ -310,7 +310,7 @@ export const translations = {
       },
       multiPage: {
         title: "Full Website",
-        price: "€500",
+        price: "€699",
         period: "one-time project",
         description: "Ideal for companies wanting strong digital presence",
         features: [
@@ -324,7 +324,7 @@ export const translations = {
       },
       custom: {
         title: "Online Store",
-        price: "€500",
+        price: "€800",
         period: "one-time project",
         description: "Complete store with Shopify and Stripe payment gateway",
         features: [
